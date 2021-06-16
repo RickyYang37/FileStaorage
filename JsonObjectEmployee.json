@@ -1,1 +1,40 @@
-
+[
+    {
+        "firstName":"血汗勞工",
+        "height": 180,
+        "weight":75,
+        "email": "kevin@gmail.com",
+        "city": {
+            "通訊地址": "苗栗",
+            "⼾籍地址": "苗栗"
+        },
+        "phone": {
+            "市話": "02-29881055",
+            "行動電話": "0933-852177"
+        },
+        "cars": [
+            "BMW",
+            "Nissan GT-R",
+            "Audi"
+        ]
+    },
+    {
+        "firstName":"血汗勞工(女)",
+        "height": 170,
+        "weight":55,
+        "email": "kevin@gmail.com",
+        "city": {
+            "通訊地址": "苗栗旁邊",
+            "⼾籍地址": "苗栗對面"
+        },
+        "phone": {
+            "市話": "02-29881055",
+            "行動電話": "0933-852177"
+        },
+        "cars": [
+            "BMW",
+            "Nissan GT-R",
+            "Audi"
+        ]
+    }
+]
